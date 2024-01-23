@@ -1,0 +1,2 @@
+Answer in base 10:41
+Answer in base 2: 1000110
